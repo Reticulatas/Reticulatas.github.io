@@ -24,7 +24,7 @@ eithub_username:  reticulatas
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
