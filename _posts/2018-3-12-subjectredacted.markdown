@@ -4,6 +4,10 @@ title:  "Subject Redacted"
 date:   2018-03-14 23:54:21 -0700
 ---
 
+Simultanous VR and Non-VR coop game for two.
+![SubjectRedacted]({{ "/assets/Subject_Redacted_2_hires.jpg" | absolute_url }})
+<!--more-->
+
 ### Featured at <img src="/assets/pax.png" alt="Drawing" style="width: 200px;"/>
 
 ![SubjectRedacted]({{ "/assets/Subject_Redacted_1_hires.jpg" | absolute_url }})

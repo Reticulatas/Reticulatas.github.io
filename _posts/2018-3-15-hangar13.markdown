@@ -4,6 +4,10 @@ title:  "Hangar 13 - Mafia III"
 date:   2018-03-14 23:54:21 -0700
 ---
 
+I helped ship Mafia III's DLCs and contributed to many core engine systems.
+![Mafia3]({{ "/assets/mafia3.jpg" | absolute_url }})
+<!--more-->
+
 ### What I worked on:
 
 * Visual Scripting - Runtime and Tool stack

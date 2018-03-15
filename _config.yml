@@ -23,9 +23,12 @@ twitter_username: reticulatas
 eithub_username:  reticulatas 
 repository: reticulatas/reticulatas.github.io
 
+excerpt_separator: "<!--more-->"
+
 # Build settings
+show_excerpts: true
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 

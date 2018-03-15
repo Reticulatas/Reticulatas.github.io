@@ -4,9 +4,14 @@ title:  "Mocha Studio - Game Engine"
 date:   2018-03-14 23:54:21 -0700
 ---
 
+Large scale, user-friendly, and feature heavy game engine.
+![Editor]({{ "/assets/Subject_Redacted_tech_hires.jpg" | absolute_url }})
+<!--more-->
+
 ### What I worked on:
 
-Large scale, user-friendly, and feature heavy game engine. Mocha Engine supports 2D and 3D modes, advanced physics, sound modulation, complete asset pipeline, and more.
+Large scale, user-friendly, and feature heavy game engine.
+Mocha Engine supports 2D and 3D modes, advanced physics, sound modulation, complete asset pipeline, and more.
 Mocha Engine runs with a robust game editor that can be used to produce game logic and maps quickly and easily. 
 
 Here's some major features I implemented personally:

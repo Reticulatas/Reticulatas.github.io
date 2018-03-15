@@ -4,6 +4,10 @@ title:  "Strangeloop Games - Eco"
 date:   2018-03-14 23:54:21 -0700
 ---
 
+60-player cooperative edutainment game I developed the networking for - among other things.
+![Eco]({{ "/assets/eco.png" | absolute_url }})
+<!--more-->
+
 Developed for Eco (http://www.strangeloopgames.com/eco/), a ecosystem simulation multiplayer survival game.
 
 ### What I worked on:
