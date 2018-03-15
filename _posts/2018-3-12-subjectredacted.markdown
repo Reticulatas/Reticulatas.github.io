@@ -28,5 +28,4 @@ Simultanous VR and Non-VR coop game for two.
 
 Subject REDACTED is a cooperative survival horror game in which two players view the same world but through different means (One in VR, one not!). The first player attempts to escape from a containment facility filled with monsters and puzzles while the second player manipulates the environment and guides the other player via security cameras. Using communication as the primary mechanic, the two players must cooperate to escape alive.
 
-![SubjectRedacted]({{ "/assets/Subject_Redacted_2_hires.jpg" | absolute_url }})
 ![SubjectRedacted]({{ "/assets/Subject_Redacted_3_hires.jpg" | absolute_url }})

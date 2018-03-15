@@ -18,7 +18,7 @@ Here's some major features I implemented personally:
 * Scene Editor
 * Core Engine Architecture
 * Bug Tracking / User Interfacing
-* Implementation and Maintenance of the Scripting Languages (AngelScript, then C#)
+* Implementation and Maintenance of the Scripting Languages (AngelScript, C#, Visual Scripting)
 * Property inspection
 * Asset management
 * Performance visualization tools

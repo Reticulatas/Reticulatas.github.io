@@ -4,14 +4,12 @@ title:  "Sunder"
 date:   2018-03-14 23:54:21 -0700
 ---
 
-Cooperative game in which the world is filtered by color using special glasses.
+Award-winning cooperative game in which the world is filtered by color using special glasses.
 ![Sunder]({{ "/assets/sunder3.png" | absolute_url }})
 <!--more-->
 
 ##### INDIECADE AUDIENCE CHOICE WINNER 2014
 ![Award]({{ "/assets/sunderaward.png" | absolute_url }})
-
-![Sunder]({{ "/assets/sunder3.png" | absolute_url }})
 
 ### What I worked on:
 
@@ -23,7 +21,13 @@ Cooperative game in which the world is filtered by color using special glasses.
 
 ### Game Description:
 
+
 Sunder uses special color filtering glasses to split the images you see into two "worlds" - effectively hiding information right in front of the players' eyes.
+
+#### Watch the trailer to see how it looks in motion:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LutglRqFBRE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 Sunder is a multiplayer puzzle platformer in which two players cooperate to solve puzzles on the same screen while in separate worlds. This is achieved by giving each player red & blue filtering glasses such that they may only see one color at a time. Verbal Communication is key.
 
 ![Sunder]({{ "/assets/sunder0.png" | absolute_url }})
