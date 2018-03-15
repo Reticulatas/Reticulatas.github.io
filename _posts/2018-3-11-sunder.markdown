@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Sunder"
+date:   2018-03-14 23:54:21 -0700
+---
+
+##### INDIECADE AUDIENCE CHOICE WINNER 2014
+![Award]({{ "/assets/sunderaward.png" | absolute_url }})
+
+
+![Sunder]({{ "/assets/sunder3.png" | absolute_url }})
+
+### What I worked on:
+
+* Many Engine Components (See Mocha Engine for details)
+* Overall Game Design & Progression
+* Technical Direction
+* Design Direction and Level Design
+* Writing 
+
+### Game Description:
+
+Sunder is a multiplayer puzzle platformer in which two players cooperate to solve puzzles on the same screen while in separate worlds. This is achieved by giving each player red & blue filtering glasses such that they may only see one color at a time. Verbal Communication is key.
+
+![Sunder]({{ "/assets/sunder0.png" | absolute_url }})
+![Sunder]({{ "/assets/sunder1.png" | absolute_url }})
+![Sunder]({{ "/assets/sunder4.png" | absolute_url }})

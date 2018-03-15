@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Strangeloop Games - Eco"
+date:   2018-03-14 23:54:21 -0700
+---
+
+Developed for Eco (http://www.strangeloopgames.com/eco/), a ecosystem simulation multiplayer survival game.
+
+### What I worked on:
+
+I implemented: 
+* A Unity modding API capable of working on any platform (including mobile!)
+* Networking systems, including a content delivery system for syncing client files.
+* Various gameplay systems, with a note towards making them easy and fun to mod. 
+
+### Game Description:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ud_refZuQoA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Eco is an edutainment game focused on placing many players into a completely simulated, networked world.  Everything is destructible and players must build technology, form governments, and make ethical desicision in order to thwart an incoming natural disaster.

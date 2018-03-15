@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hangar 13 - Mafia III"
+date:   2018-03-14 23:54:21 -0700
+---
+
+### What I worked on:
+
+* Visual Scripting - Runtime and Tool stack
+* Networking Editor Functionality
+* Content Build Tools
+* Debugging Tools - Visual script profiling, visual script debugger, replay system, etc.
+
+### Game Description:
+
+I worked on Mafia III and it's DLCs.  Mafia III is an open world third person shooter with a heavy emphasis on mechanics-based storytelling.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TNiHOpHbCzM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

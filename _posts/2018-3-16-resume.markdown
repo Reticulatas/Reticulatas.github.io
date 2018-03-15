@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Resume"
+date:   2018-03-14 23:54:21 -0700
+---
+
+[Download my Resume]({{ "/assets/resume_nicholas.fuller.pdf" | absolute_url }})
